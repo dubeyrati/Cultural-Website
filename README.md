@@ -1,2 +1,2 @@
 # Cultural-Website
-https://welcometorajasthan.netlify.app/#Overview
+https://welcometorajasthan.netlify.app
